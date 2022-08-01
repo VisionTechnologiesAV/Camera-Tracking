@@ -12,6 +12,7 @@ namespace MultiFaceRec
         static void Main()
         {
             Application.Run(new FrmPrincipal());
+        
         }
     }
 }

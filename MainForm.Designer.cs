@@ -1,4 +1,5 @@
-﻿namespace MultiFaceRec
+﻿/*
+namespace MultiFaceRec
 {
     partial class FrmPrincipal
     {
@@ -17,33 +18,26 @@
             this.imageBoxFrameGrabber = new Emgu.CV.UI.ImageBox();
             ((System.ComponentModel.ISupportInitialize)(this.imageBoxFrameGrabber)).BeginInit();
             this.SuspendLayout();
-            
             // 
             // imageBoxFrameGrabber
             // 
-            this.imageBoxFrameGrabber.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.imageBoxFrameGrabber.Location = new System.Drawing.Point(16, 15);
-            this.imageBoxFrameGrabber.Margin = new System.Windows.Forms.Padding(4);
+            this.imageBoxFrameGrabber.Location = new System.Drawing.Point(0, 0);
             this.imageBoxFrameGrabber.Name = "imageBoxFrameGrabber";
-            this.imageBoxFrameGrabber.Size = new System.Drawing.Size(426, 295);
-            this.imageBoxFrameGrabber.TabIndex = 4;
+            this.imageBoxFrameGrabber.Size = new System.Drawing.Size(0, 0);
+            this.imageBoxFrameGrabber.TabIndex = 2;
             this.imageBoxFrameGrabber.TabStop = false;
             // 
             // FrmPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(456, 329);
-            this.Controls.Add(this.imageBoxFrameGrabber);
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.ClientSize = new System.Drawing.Size(282, 253);
             this.Name = "FrmPrincipal";
-            this.Text = "Facial Detection";
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             ((System.ComponentModel.ISupportInitialize)(this.imageBoxFrameGrabber)).EndInit();
             this.ResumeLayout(false);
-            
+
         }
 
         private Emgu.CV.UI.ImageBox imageBoxFrameGrabber;
     }
 }
-
+*/
