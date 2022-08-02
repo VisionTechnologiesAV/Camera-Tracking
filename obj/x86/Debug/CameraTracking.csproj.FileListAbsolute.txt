@@ -28,3 +28,17 @@ C:\Users\llawless\source\repos\Facial Camera Tracking\obj\x86\Debug\CameraTracki
 C:\Users\llawless\source\repos\Facial Camera Tracking\obj\x86\Debug\CameraTracking.csproj.CopyComplete
 C:\Users\llawless\source\repos\Facial Camera Tracking\obj\x86\Debug\MultiFaceRec.exe
 C:\Users\llawless\source\repos\Facial Camera Tracking\obj\x86\Debug\MultiFaceRec.pdb
+\\HomeNas\Andrew\Crestron\Camera-Tracking\bin\Debug\MultiFaceRec.exe.config
+\\HomeNas\Andrew\Crestron\Camera-Tracking\bin\Debug\MultiFaceRec.exe
+\\HomeNas\Andrew\Crestron\Camera-Tracking\bin\Debug\MultiFaceRec.pdb
+\\HomeNas\Andrew\Crestron\Camera-Tracking\bin\Debug\Emgu.CV.xml
+\\HomeNas\Andrew\Crestron\Camera-Tracking\bin\Debug\Emgu.CV.UI.xml
+\\HomeNas\Andrew\Crestron\Camera-Tracking\bin\Debug\Emgu.Util.xml
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\CameraTracking.csproj.AssemblyReference.cache
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\CameraTracking.csproj.GenerateResource.cache
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\CameraTracking.csproj.CoreCompileInputs.cache
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\CameraTracking.csproj.CopyComplete
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\MultiFaceRec.exe
+\\HomeNas\Andrew\Crestron\Camera-Tracking\obj\x86\Debug\MultiFaceRec.pdb

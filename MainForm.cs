@@ -26,6 +26,9 @@ namespace MultiFaceRec
         HaarCascade face;
         Image<Gray, byte> gray = null;
 
+        CameraControl camera = new CameraControl("10.11.100.50", 23);
+
+
         public FrmPrincipal()
         {
             //InitializeComponent();
@@ -86,22 +89,30 @@ namespace MultiFaceRec
                         {
                             // insert camera controls
                             Console.WriteLine("Camera Right");
+                            //this could be sent through an interface so that multiple camera types can be added
+                            camera.SendData("camera pan right");
                         }
                         if (posX >= rightBoundary)
                         {
                             // insert camera controls
                             Console.WriteLine("Camera Left");
+                            camera.SendData("camera pan left");
                         }
                         if (posY <= upperBoundary)
                         {
                             // insert camera controls
                             Console.WriteLine("Camera Up");
+                            camera.SendData("camera pan up");
                         }
                         if (posY >= lowerBoundary)
                         {
                             // insert camera controls
                             Console.WriteLine("Camera Down");
+                            camera.SendData("camera pan down");
                         }
+
+                        //TODO: what about zoom controls? can we get a distance from the camera?
+
                     }
                 }
 
